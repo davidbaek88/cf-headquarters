@@ -1,0 +1,6 @@
+{
+  "name": "CF Headquarters",
+  "description": "ConcreteFlow AI 가상 본사 및 AI 임원 협업 운영 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
